@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "62.141.62.23",
-    "port": 3384,
+    "ip": "hfxm.play.hosting",
+    "port": 59881,
     "version": "",
     "try-creative": false
   },
